@@ -15,6 +15,12 @@ Article by Chen Liwen at Sixth Tone (recommended by David Li).
 
 Article by Lloyd Alter on Treehugger.
 
+### [Yes, Recycling is Broken](https://medium.com/disruptive-design/yes-recycling-is-broken-432c484d6539)
+
+Article by Leyla Acaroglu at Medium / Disrputive Design.
+
+> This pains me to write, but we all have to come to terms with the harsh reality that recycling validates waste and is a placebo to the complex waste crisis we have designed ourselves into. The things you are separating and putting in your recycling bins are probably not being recycled — and there’s a good chance that they are ending up somewhere you never imagined.
+
 ## Audio
 
 ### [Waste Land](https://www.npr.org/2020/09/11/912150085/waste-land)
