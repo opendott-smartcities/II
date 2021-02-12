@@ -1,8 +1,12 @@
 # II
-Documenting the second year of research, looking at (waste prevention in) smart cities
+Documenting the second year of research, looking at (waste prevention in) smart cities.
 
-## Log
+During the second year of the [OpenDoTT](https://opendott.org) project, I am expected to create prototypes related to my research on waste prevention in smart cities. A summary of my plans for that can be seen on [this blog post](https://is.efeefe.me/opendott/prototyping).
 
-### 11.02.2021
+This repository starts with three subfolders:
 
-First challenge: how to call this repository? I struggled a bit with it. Prototyping? Valooe? Year 2? 2021 (or is it still 2020)? I ended up calling it "II", only to reference that I'll use it to document my second year of research. I can always change my mind later and rename or fork it.
+- [prototyping](prototyping), where I am documenting the progress of the prototypes themselves;
+- [references](references) with URLs, articles and media relevant for this phase of the project;
+- [log](log) with meta-documentation about this repository, in tandem with my [research blog](https://is.efeefe.me/opendott).
+
+I keep also a [link collection](https://links.efeefe.me/?searchtags=opendott) since my research started.

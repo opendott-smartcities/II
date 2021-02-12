@@ -1,4 +1,4 @@
-# Universal Data Registry
+# Universal Registry of Things
 
 ## References
 
