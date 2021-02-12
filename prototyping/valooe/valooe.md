@@ -2,6 +2,10 @@
 
 Speculative technologies for value assessment of second-hand materials.
 
+## Previous work
+
+Based on [Point and Reuse](https://is.efeefe.me/concepts/point-reuse), concept idea created in the first year of research.
+
 ## References
 
 ### [Monk - Ai-based inspection system](https://monkvision.ai/#how-it-works)
