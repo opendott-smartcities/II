@@ -7,7 +7,7 @@ References I have not yet read, added to my reading pile:
 
 ## Videos
 
-### [TED: recycling](https://www.ted.com/search?q=recycling)
+### [TED: recycling](https://www.ted.com/search?q=recycling)
 
 Search query "recycling" at TED. Do I want to watch any of them?
 
