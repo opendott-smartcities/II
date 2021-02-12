@@ -4,7 +4,11 @@ Speculative technologies for value assessment of second-hand materials.
 
 ## References
 
-- [ Formation "Agent valoriste"](https://ecossolies.fr/Formation-Agent-valoriste)
+### [Monk - Ai-based inspection system](https://monkvision.ai/#how-it-works)
+
+> Creating Trust whenever an item changes hands
+
+### [Formation "Agent valoriste"](https://ecossolies.fr/Formation-Agent-valoriste)
 
 > Les professionnel.les du secteur du réemploi et du recyclage exercent des métiers variés : agent valoriste, chauffeur collecte, responsable boutique, opérateur de tri, vendeur … Chaque jour, ces professionnel.les contribuent à détourner de l’incinérateur des mètres cubes de matières. Leur rôle est aussi essentiel pour amener les citoyens et les entreprises à adopter des réflexes et des pratiques responsables en matière de tri et de consommation.
 > Depuis 5 ans, les Ecossolies en lien avec les acteurs ESS du secteur « Réemploi/Ressources », forment des professionnels du secteur autour des principales fonctions du métier de valoriste :
