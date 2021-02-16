@@ -1,6 +1,14 @@
 # Valooe
 
-Speculative technologies for value assessment of second-hand materials.
+![](header.jpg)
+
+## Description
+
+Valooe is a piece of hardware increase the ability to reuse materials. Users can show objects to the machine. Valooe identifies the objects and displays information about their repairability, spare partes, raw materials, second-hand market, possibilities of upcycling, adaptations and transformations, etc.
+
+The goal with Valooe is not to develop a functional product, but rather to discuss how can technologies help society reuse a larger proportion of materials that are currently discarded, and what would the implications of such technologies be in terms of use, privacy, health and safety, policy and economy.
+
+![](valooe.png)
 
 ## Previous work
 
@@ -20,5 +28,5 @@ Repository [here](https://github.com/Tessellate-Imaging/monk_v1).
 > Depuis 5 ans, les Ecossolies en lien avec les acteurs ESS du secteur « Réemploi/Ressources », forment des professionnels du secteur autour des principales fonctions du métier de valoriste :
 >  - Collecter, trier, valoriser des objets, des matières
 >  - Informer, orienter, sensibiliser aux enjeux du réemploi
->  - Travailler en réseau avec les acteurs agissant dans la prévention et la gestion des déchets. 
+>  - Travailler en réseau avec les acteurs agissant dans la prévention et la gestion des déchets.
 > Les participants de la formation peuvent aussi bien être des agents opérateurs terrain, que des équipes d’encadrement et travaillent dans des filières d’activités différentes (textile, D3E, BTP, électro-ménager), et au sein de différentes structures : ressourceries, structure d’insertion, collectivités locales, associations de quartiers.
