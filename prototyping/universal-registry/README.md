@@ -24,4 +24,5 @@ Building on top of [this concept idea](https://is.efeefe.me/concepts/universal-r
 ## References
 
 - [Open Repair Data Standard](https://standard.openrepair.org/)
+  - [Notes about repair data](https://notes.fixfest.org/p/2020-repairdata) during Fixfest 2020
 - [WasteNet](https://recycleye.com/wastenet/)
