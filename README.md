@@ -7,6 +7,7 @@ This repository has four subfolders:
 
 - [prototyping](prototyping), where I am documenting the progress of the prototypes themselves;
 - [references](references) with URLs, articles and media relevant for this phase of the project;
-- [log](log) with meta-documentation about this repository, in tandem with my [research blog](https://is.efeefe.me/opendott).
+- [log](log) with meta-documentation about this repository, in tandem with my [research blog](https://is.efeefe.me/opendott);
+- [workshops](workshops) documenting the sessions that will constitute my main way of engaging with participants this year.
 
 I keep also a [link collection](https://links.efeefe.me/?searchtags=opendott) since my research started.
