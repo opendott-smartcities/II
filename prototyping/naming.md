@@ -62,6 +62,7 @@ Looking for a name to call this year's research activities (prototypes of a coll
 - Evaluable
 - Valoee
 - Thingstory
+- Resdata
 - Valudata (I kinda like this one, sounds a bit epic while malleable)
 - Quantovale (Portuguese for "how much is it worth?", also a pun on a documentary film criticising huge nonprofit orgs)
 - OpenObjectDataBase - OODB (sounds a little too opensourcey - OSF - for my taste, and excludes the machine / app)
