@@ -1,5 +1,9 @@
 # Naming
 
+## Updated 28.02.2021
+
+For the time being, I'm settling with "valudata" for the universal database, and or "e.valudata" for the hardware/software to access and query it. Registered a domain name yesterday, valudata.org.
+
 ## 24.02.2021
 
 Looking for a name to call this year's research activities (prototypes of a collaborative database and a machine/app to assess the potential value of objects). "Value" is a central aspect. Plenty of awkward ideas below. Some of them are already crowded, in regards to domain names.
