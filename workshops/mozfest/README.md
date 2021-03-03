@@ -28,3 +28,5 @@ The idea during MozFest is to explore how best to pursue the development of the 
  1. Break-out groups. By theme? Random?
  1. Present results.
  1. Where to next?
+
+ 
