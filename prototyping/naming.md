@@ -5,6 +5,8 @@
 Playing now with the idea of calling the hardware part "Evaluation Interface", or short "EI". "Ei" in Portuguese is a (very) informal way to call someone's attention, akin to "hey!". It could be an interesting way to trigger a voice-operated machine. Thinking an Alexa for repairs. Some languages will also pronounce it similar to the English "I" or "eye". "Eye, is this thing repairable?". I am not 100% sure it will work in German, though, as "Ei"
  means "egg". Unless we decide to go for an oval shape, which could add some fun to it as well.
 
+ **P.S.:** How about "E-I"?
+
 ## Updated 28.02.2021
 
 For the time being, I'm settling with "valudata" for the universal database, and or "e.valudata" for the hardware/software to access and query it. Registered a domain name yesterday, valudata.org.
