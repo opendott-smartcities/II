@@ -1,3 +1,7 @@
+# Universal Registry of Things
+
+Application [submitted](https://pretalx.com/mozfest-2021/talk/review/C3ZJGSQGESN7HLVVWKRXFTAGRUYSLRXL) as proposal to the virtual edition of the Mozilla Festival in 2021. 
+
 ## Title
 
 Universal Registry of Things - promoting the reuse of materials and objects in smart cities
