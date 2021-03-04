@@ -12,5 +12,8 @@ Defining the central aspects of the video:
 
 References:
 
- - Second Hand, Adam Minter
- - Looking for examples of repair bots on sci-fi. Some clues on Twitter
+- [Second Hand](https://www.indiebound.org/book/9781635570113) by Adam Minter
+- “Second Hand” author Adam Minter in a [podcast summarising his book, telling favorite stories](https://www.youtube.com/watch?v=vaFncvQTyVw)
+- [Ilha das Flores](https://en.wikipedia.org/wiki/Isle_of_Flowers)
+- My [blog post pointing](https://is.efeefe.me/opendott/landfills) to Waste Land, Estamira, Trash
+- Coco & Cia - collection of recyclables in Ubatuba, Brazil - [my blog post](https://is.efeefe.me/opendott/coco-cia-2018) (video in Portuguese)

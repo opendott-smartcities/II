@@ -6,7 +6,11 @@ How about a robot shaped like [this](https://duckduckgo.com/?q=LED+Light+Helping
 
 ![](https://images.extra-large.org/l-m/light-helping-hands-magnifier-station.jpg)
 
+### Tech to assist repairs on entertainment / sci-fi:
 
+ - Start Wars: R2D2 aiding on repairs
+ - Iron Man: J.A.R.V.I.S
+ - Farscape: [DRDs](https://farscape.fandom.com/wiki/Diagnostic_Repair_Drone )
 
 ## 01.03.2021
 
