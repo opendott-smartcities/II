@@ -13,7 +13,7 @@ I have submitted a [proposal](application.md) to host a workshop during this yea
 During my second year of research at the [OpenDoTT](https://opendott.org) project, I am [prototyping](../../prototyping) technologies to aid on waste avoidance. My focus is particularly on practices of repair and reuse undertaken on a local/regional level and benefiting local communities. I will work along two main avenues of development:
 
  - [universal registry of things](../../prototyping/universal-registry), a database consisting of information on how objects and materials to improve their reusability. Examples of information: service manuals, repair shops, spare parts, raw materials and their origins, ideal destination, stories of repair and upcycling, etc.
- - [evaluation interface](../../prototyping/e), hardware and software aimed at identifying physical objects and materials against the universal registry and providing information about their reusability.
+ - [evaluation interface](../../prototyping/e-i), hardware and software aimed at identifying physical objects and materials against the universal registry and providing information about their reusability.
 
 I have a tentative name for the system (valudata), and at least one idea for the hardware part (e-i). In the coming months I will be collaborating with a video producer and an artist to evolve the concepts above into more relatable ways to demonstrate them.
 
@@ -28,5 +28,3 @@ The idea during MozFest is to explore how best to pursue the development of the 
  1. Break-out groups. By theme? Random?
  1. Present results.
  1. Where to next?
-
- 
