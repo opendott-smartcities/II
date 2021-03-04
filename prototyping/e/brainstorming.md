@@ -10,7 +10,7 @@ Ctaft Time on YouTube: [How to make third hand/DIY Soldering Station](https://ww
 
 ### Tech to assist repairs on entertainment / sci-fi:
 
- - Start Wars: R2D2 aiding on repairs
+ - Star Wars - as noted by [James Wallbank](https://twitter.com/accessjames/status/1367128745119727621) and [Adam Minter](https://youtu.be/sHWbR8YpmUA?t=788) ("there's always a junkyard, but no recycling to be seen - things waiting to be used").
  - Iron Man: J.A.R.V.I.S
  - Farscape: [DRDs](https://farscape.fandom.com/wiki/Diagnostic_Repair_Drone )
 

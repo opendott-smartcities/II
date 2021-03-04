@@ -34,4 +34,8 @@ What sort of equipment is needed for a Transformation Lab?
  - e-valudata ;)
  - 3d printer
  - 3d scanner
- - lasercutter
+ - laser cutter
+
+ ## References
+
+ - [Minimal-Repair-Setup](https://github.com/ASKnet-Open-Training/Minimal-Repair-Setup) from ASKnet.
