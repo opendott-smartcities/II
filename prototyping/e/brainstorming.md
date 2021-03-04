@@ -6,6 +6,8 @@ How about a robot shaped like [this](https://duckduckgo.com/?q=LED+Light+Helping
 
 ![](https://images.extra-large.org/l-m/light-helping-hands-magnifier-station.jpg)
 
+Ctaft Time on YouTube: [How to make third hand/DIY Soldering Station](https://www.youtube.com/watch?v=PHCyHRWCvUc)
+
 ### Tech to assist repairs on entertainment / sci-fi:
 
  - Start Wars: R2D2 aiding on repairs
