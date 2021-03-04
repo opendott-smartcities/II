@@ -1,5 +1,13 @@
 # Brainstorming
 
+## 04.03.2021
+
+How about a robot shaped like [this](https://duckduckgo.com/?q=LED+Light+Helping+Hands+Magnifier+Station&ia=images&iax=images&atb=v236-1)?
+
+![](https://images.extra-large.org/l-m/light-helping-hands-magnifier-station.jpg)
+
+
+
 ## 01.03.2021
 
 Great conversation with an artist based in Sheffield. I hope to engage him further on designing and sketching props / prototypes / models for the valudata video.
