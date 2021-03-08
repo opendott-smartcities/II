@@ -1,5 +1,9 @@
 # Brainstorming
 
+## 08.03.2021
+
+More inspiration: [lamps made of upcycled materials](https://stw-design.website/produkt-kategorie/lampen/).
+
 ## 04.03.2021
 
 How about a robot shaped like [this](https://duckduckgo.com/?q=LED+Light+Helping+Hands+Magnifier+Station&ia=images&iax=images&atb=v236-1)?
