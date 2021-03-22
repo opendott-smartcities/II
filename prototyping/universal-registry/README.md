@@ -2,12 +2,34 @@
 
 ## Description
 
-## Planned session during Mozfest 2021:
+The Universal Registry of Things is a trusted source of information about how to reuse objects and materials. It offers information about repair, customisation and repurposing of virtually any kind of thing.
+
+Examples of data to be featured:
+
+* Manufacturer
+* Support and end-of-life policy;
+* Versions and official recalls;
+* Price of object offered online (new/used);
+* Materials;
+* Service manuals;
+* Parts;
+* Repair tools;
+* Tutorials of repair;
+* Examples of reuse / upcycling;
+* Second-hand market information.
+
+## Prototyping
+
+I started (22.03.2021) modelling the base in this [airtable sheet](https://airtable.com/invite/l?inviteId=inv2pca3eNBmtT4d6&inviteToken=a6a50be7ff210aebd030eefa11c11b7f11833b4be695ab35aa9eb04cd60e877e).
+
+## Session during Mozfest 2021
 
 - Workshop - Sustainability Space
 - 2021-03-11, 15:45–16:45, Zoom Room 5
+- Preparation blog post available [here](../workshops/mozfest/preparation_blog-post.md)
+- Session notes available [here](../workshops/mozfest/session-notes.md).
 
-From the approved submission:
+**Session description:**
 
 > The session is planned to be an open discussion about the creation of an open registry of physical objects to support information systems that promote the reuse of materials through repair and repurposing. Some of the issues expected to be discussed are data structure and formats, governance and implications in terms of intellectual property, privacy and security.
 > This proposal is based on the original concept idea documented here:
@@ -18,11 +40,4 @@ https://is.efeefe.me/concepts/universal-registry-things . It is part of my ongoi
 
 ## Previous work
 
-Building on top of [this concept idea](https://is.efeefe.me/concepts/universal-registry-things), created in an earlier phase of research.
-
-
-## References
-
-- [Open Repair Data Standard](https://standard.openrepair.org/)
-  - [Notes about repair data](https://notes.fixfest.org/p/2020-repairdata) during Fixfest 2020
-- [WasteNet](https://recycleye.com/wastenet/)
+Building on top of [this concept idea](https://is.efeefe.me/concepts/universal-registry-things), created in an earlier phase of research. I'll keep updating that page as the prototype progresses.
