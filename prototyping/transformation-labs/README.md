@@ -39,3 +39,6 @@ What sort of equipment is needed for a Transformation Lab?
  ## References
 
  - [Minimal-Repair-Setup](https://github.com/ASKnet-Open-Training/Minimal-Repair-Setup) from ASKnet.
+ - [Repair Cafe'](https://wikifab.org/wiki/Repair_Cafe%27)
+ - [Restart Project: Tools](https://wiki.restarters.net/Tools)
+ - [iFixit Store](https://pt.ifixit.com/Store/)
