@@ -1,3 +1,5 @@
+! Important note (14.04.2021): This document has moved to a [different repository](https://github.com/reuse-city/lab/). Any information below may be outdated or obsolete.
+
 # Brainstorming
 
 A series of workshops to co-design and test [prototypes of speculative technologies](../prototyping) to aid the reuse of discarded materials.

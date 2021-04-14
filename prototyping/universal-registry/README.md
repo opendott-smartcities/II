@@ -1,5 +1,7 @@
 # Universal Registry of Things
 
+! Important note (14.04.2021): This document has moved to a [different repository](https://github.com/reuse-city/lab/). Any information below may be outdated or obsolete.
+
 ## Description
 
 The Universal Registry of Things is a trusted source of information about how to reuse objects and materials. It offers information about repair, customisation and repurposing of virtually any kind of thing.

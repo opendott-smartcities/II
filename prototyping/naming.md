@@ -1,5 +1,9 @@
 # Naming
 
+## Updating on 14.04.21
+
+I forgot even to mention on this document, but some weeks ago I was still under brainstorm mode and checking available domain names. I eventually found that _reuse.city_ was available and decided to acquire it. As soon as I found the name, the shape of the whole project started to unfold before me (oops, but that part of the story should be told elsewhere).
+
 ## Updated 03.03.21
 
 Playing now with the idea of calling the hardware part "Evaluation Interface", or short "EI". "Ei" in Portuguese is a (very) informal way to call someone's attention, akin to "hey!". It could be an interesting way to trigger a voice-operated machine. Thinking an Alexa for repairs. Some languages will also pronounce it similar to the English "I" or "eye". "Eye, is this thing repairable?". I am not 100% sure it will work in German, though, as "Ei"

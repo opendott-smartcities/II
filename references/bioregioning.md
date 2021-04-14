@@ -1,3 +1,6 @@
+! Important note (14.04.2021): This document has moved to a [different repository](https://github.com/reuse-city/lab/). Any information below may be outdated or obsolete.
+
+
 # "[Bioregioning: Pathways to Urban-Rural Reconnection](https://www.sciencedirect.com/science/article/pii/S2405872619300012)"
 
 _[John Thackara](https://http://thackara.com/)_
@@ -11,7 +14,7 @@ _[John Thackara](https://http://thackara.com/)_
 (...)
 
 > As things stand today, circular economy approaches to production combine technical innovation and new business models to close material and product loops. But, just as building new roads increases car traffic, circular economy rebound occurs in the form of leakage—the material impacts of support services that today’s hyper-connected businesses rely on. Energy and resources are needed to get staff to work, collect trash, provide water, ensure sanitation, power the cloud, and so on. We still use more raw materials in the system than can be made available through; there are simply not enough recyclable raw materials to put a stop to the continuously expanding extractive economy.
-> A circular bioregional framework could reduce such leakage by making health of place the value benchmark rather than production outputs measured—abstractly—in terms of money and “Gross Value Added.”37 If health of place is to replace money as a shared value metric, we will have to describe and measure “health” with greater precision than we do now. 
+> A circular bioregional framework could reduce such leakage by making health of place the value benchmark rather than production outputs measured—abstractly—in terms of money and “Gross Value Added.”37 If health of place is to replace money as a shared value metric, we will have to describe and measure “health” with greater precision than we do now.
 
 (...)
 

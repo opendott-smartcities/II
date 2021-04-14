@@ -1,3 +1,5 @@
+! Important note (14.04.2021): This document has moved to a [different repository](https://github.com/reuse-city/lab/). Any information below may be outdated or obsolete.
+
 ## To read
 
 References I have not yet read, added to my reading pile:
@@ -11,4 +13,3 @@ References I have not yet read, added to my reading pile:
 ### [TED: recycling](https://www.ted.com/search?q=recycling)
 
 Search query "recycling" at TED. Do I want to watch any of them?
-
