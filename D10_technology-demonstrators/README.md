@@ -20,4 +20,6 @@ This folder consists of the following:
     - Display on the machine what is captured by the camera;
     - Receive the identifiers from the NFC sensor when the object's NFC tags are recognised;
     - Play an audio signal when a NFC tag is recognised.
-    - Display a different web page each time a different NFC tag is recognised.
+    - Display different information on a web page each time a different NFC tag is recognised.
+
+The node-red flows included here have a simple web page displaying local information, even though at a later stage it was decided to use a separate website for that purpose.
