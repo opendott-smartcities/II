@@ -8,10 +8,10 @@ Other activities that provided data, insights and density to my research this ye
 
 Contents of this repository:
 
-- [D10 - Technology demonstrators]: experiments and code developed during the training module on open hardware and prototyping.
-- [D11 - Co-designed concepts]: updated versions of concepts to be prototyped.
-- [D12 - Documentation of prototypes]: experiments to make the concepts concrete and test their relevance and validity.
-- [D13 - Deployment datasets]: data generated whilst developing and implementing the prototypes.
-- [D14 - Open Technology Workbooks]: an overview of this year's activities.
+- [D10 - Technology demonstrators](D10_technology_demonstrators): experiments and code developed during the training module on open hardware and prototyping.
+- [D11 - Co-designed concepts](D11_co-designed-concepts): updated versions of concepts to be prototyped.
+- [D12 - Documentation of prototypes](D12_documentation-of-prototypes): experiments to make the concepts concrete and test their relevance and validity.
+- [D13 - Deployment datasets](D13_deployment-datasets): data generated whilst developing and implementing the prototypes.
+- [D14 - Open Technology Workbooks](D14_open-technology-workbooks): an overview of this year's activities.
 
 As the project moves to its third and final year, I will explore how the ideas developed earlier can make their way into policy and implemented in real-world scenarios.
