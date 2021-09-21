@@ -1,8 +1,19 @@
 # Transformation Labs
 
-! Important note (14.04.2021): This document has moved to a [different repository](https://github.com/reuse-city/lab/). Any information below may be outdated or obsolete.
+Public infrastructure (facilities) allowing citizens to repair, upcycle and repurpose goods and materials. A hotspot for tactile education and creative experimentation. Work in tandem (or inside) scrap shops, second hand warehouses and reuse centres.
 
-[Transformation Labs](https://is.efeefe.me/concepts/transformation-lab).
+What constitutes a transformation lab?
+
+- Policy for accepting / sorting materials and products
+- [[#Equipment]] - tools, machines, testers
+- Storage space
+- Spare parts
+- Consumables
+- Futurely: [E-I](../e-i/README.md)
+
+*Original concept idea: [Transformation Labs](https://is.efeefe.me/concepts/transformation-lab).*
+
+![Transformation Labs - short video description](prototype_transformation-labs.webm)
 
 ## Equipment
 
@@ -38,9 +49,18 @@ What sort of equipment is needed for a Transformation Lab?
  - 3d scanner
  - laser cutter
 
+## Partnering
+
+- Zero Waste initiatives
+- Schools
+- Makerspaces
+- Community repair groups
+- Employment agencies
+
  ## References
 
  - [Minimal-Repair-Setup](https://github.com/ASKnet-Open-Training/Minimal-Repair-Setup) from ASKnet.
  - [Repair Cafe'](https://wikifab.org/wiki/Repair_Cafe%27)
  - [Restart Project: Tools](https://wiki.restarters.net/Tools)
  - [iFixit Store](https://pt.ifixit.com/Store/)
+ - [Open Lab Starter Kit](https://fabcity.hamburg/en/open-lab-starter-kit/) from Fabcity Hamburg

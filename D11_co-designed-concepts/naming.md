@@ -1,5 +1,9 @@
 # Naming
 
+## P.S.:
+
+At some point I decided to use "thingwiki" for the prototype of the universal registry of things, and registered a domain name for that too.
+
 ## Updating on 14.04.21
 
 I forgot even to mention on this document, but some weeks ago I was still under brainstorm mode and checking available domain names. I eventually found that _reuse.city_ was available and decided to acquire it. As soon as I found the name, the shape of the whole project started to unfold before me (oops, but that part of the story should be told elsewhere).
