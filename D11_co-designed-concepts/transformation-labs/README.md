@@ -12,25 +12,20 @@ Initially the plans for the second year of research did not involve working furt
 
 ## What constitutes a transformation lab?
 
-A Transformation Lab is a place where the inhabitants of a city or region can use tools and equipment to tranform goods and materials. It can be seen as a hybrid of makerspace, tool library, technical school and community centre. A blueprint for a Transformation lab should involve the following:
+A Transformation Lab is a place where the residents (and visitors, of course) of a city or region can use tools and equipment to tranform goods and materials. It can be seen as a hybrid of makerspace, tool library, technical school and community centre. A blueprint for a Transformation lab should involve the following:
 
- - [Equipment](#equipment)
+ - [Hardware](#hardware)
  - [Space](#space)
  - [Governance](#governance)
+ - [Activities](#activities)
 
-- [[#Equipment]] - tools, machines, testers
-- Storage space for potentially reusable goods and materials
-- Availability of spare and replacement parts
-- Consumables
-- In the future: [E-I](../e-i)
+See also this [short video description](prototype_transformation-labs.webm) made for the reuse.city co-design lab.
 
-![Transformation Labs - short video description](prototype_transformation-labs.webm)
+### 1. Hardware
 
-## Equipment
+What kind of hardware is needed for a Transformation Lab?
 
-What sort of equipment is needed for a Transformation Lab?
-
-### Basic
+#### Basic
 
  - Workbench
  - Stools
@@ -47,18 +42,28 @@ What sort of equipment is needed for a Transformation Lab?
  - Cutting mat
  - Box cutter
 
-### Intermediary
+#### Intermediary
 
  - Screens (HDMI, VGA, composite video)
  - Speaker
  - Cable tester
 
-### Advanced
+#### Advanced
 
- - e-valudata ;)
  - 3d printer
  - 3d scanner
  - laser cutter
+ - CNC
+ - E-I
+
+### 2. Space
+
+ - Storage space for potentially reusable goods and materials
+ - Availability of spare and replacement parts
+ - Consumables
+ - In the future: [E-I](../e-i)
+
+### 3. Governance
 
 ## Partnering
 
@@ -67,6 +72,8 @@ What sort of equipment is needed for a Transformation Lab?
  - Makerspaces
  - Community repair groups
  - Employment agencies
+
+### 4. Activities
 
 ## References
 
