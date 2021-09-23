@@ -1,3 +1,5 @@
+> Text posted to my [research blog](https://is.efeefe.me/opendott/mozfest-2021) on 04.03.2021:
+
 # Repair tech at MozFest
 
 In one week I will conduct the first public activity of my research project in 2021. It will be an open discussion during the [Mozilla Festival](mozillafestival.org/), called "Universal Registry of Things - promoting the reuse of materials and objects in smart cities". This year the Festival will be 100% online, due to the effects of the COVID-19 pandemic.

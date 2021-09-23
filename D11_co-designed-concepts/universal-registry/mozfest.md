@@ -6,7 +6,7 @@
 
 I have submitted a [proposal](application.md) to host a workshop during this year's (virtual) edition of MozFest, in the Sustainability space.
 
-**Note:** I am looking for people interested not only in joining the discussion, but also to help organising and documenting the breakout rooms. Please contact me [via email](5wbi948e9@relay.firefox.com) if you are willing to help.
+**Note:** I am looking for people interested not only in joining the discussion, but also to help organising and documenting the breakout rooms. Please contact me [via email] if you are willing to help.
 
 ## Context
 
