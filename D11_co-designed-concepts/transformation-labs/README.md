@@ -1,17 +1,28 @@
 # Transformation Labs
 
-Public infrastructure (facilities) allowing citizens to repair, upcycle and repurpose goods and materials. A hotspot for tactile education and creative experimentation. Work in tandem (or inside) scrap shops, second hand warehouses and reuse centres.
+Transformation Labs are public urban facilities that allow citizens to repair, upcycle and repurpose goods and materials. They aim to be hotspots for tactile education and creative experimentation. Transformation Labs may partner up with - or be located inside - scrap shops, second hand warehouses and reuse centres.
 
-What constitutes a transformation lab?
+## Background
 
-- Policy for accepting / sorting materials and products
+The [original concept for the Transformation Labs](https://web.archive.org/web/*/https://is.efeefe.me/concepts/transformation-lab) was created as an outcome of the first year of activities in the OpenDoTT project.
+
+## Updated concepts
+
+Initially the plans for the second year of research did not involve working further on the concept of the Transformation Lab, as it seemed more fit for the final year of the OpenDoTT project which will focus on policymaking. Nonetheless, the subject of public infrastructure to promote the reuse of materials emerged often from activities with participants. This document captures some of those discussions, and will likely help build the basis for future actions.
+
+## What constitutes a transformation lab?
+
+A Transformation Lab is a place where the inhabitants of a city or region can use tools and equipment to tranform goods and materials. It can be seen as a hybrid of makerspace, tool library, technical school and community centre. A blueprint for a Transformation lab should involve the following:
+
+ - [Equipment](#equipment)
+ - [Space](#space)
+ - [Governance](#governance)
+
 - [[#Equipment]] - tools, machines, testers
-- Storage space
-- Spare parts
+- Storage space for potentially reusable goods and materials
+- Availability of spare and replacement parts
 - Consumables
-- Futurely: [E-I](../e-i/README.md)
-
-*Original concept idea: [Transformation Labs](https://is.efeefe.me/concepts/transformation-lab).*
+- In the future: [E-I](../e-i)
 
 ![Transformation Labs - short video description](prototype_transformation-labs.webm)
 
@@ -51,13 +62,13 @@ What sort of equipment is needed for a Transformation Lab?
 
 ## Partnering
 
-- Zero Waste initiatives
-- Schools
-- Makerspaces
-- Community repair groups
-- Employment agencies
+ - Zero Waste initiatives
+ - Schools
+ - Makerspaces
+ - Community repair groups
+ - Employment agencies
 
- ## References
+## References
 
  - [Minimal-Repair-Setup](https://github.com/ASKnet-Open-Training/Minimal-Repair-Setup) from ASKnet.
  - [Repair Cafe'](https://wikifab.org/wiki/Repair_Cafe%27)
