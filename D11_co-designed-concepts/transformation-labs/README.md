@@ -2,15 +2,15 @@
 
 Transformation Labs are public urban facilities that allow citizens to repair, upcycle and repurpose goods and materials. They aim to be hotspots for tactile education and creative experimentation. Transformation Labs may partner up with - or be located inside - scrap shops, second hand warehouses and reuse centres.
 
-## Background
+## 1. Background
 
 The [original concept for the Transformation Labs](https://web.archive.org/web/*/https://is.efeefe.me/concepts/transformation-lab) was created as an outcome of the first year of activities in the OpenDoTT project.
 
-## Updated concepts
+## 2. Updated concepts
 
 Initially the plans for the second year of research did not involve working further on the concept of the Transformation Lab, as it seemed more fit for the final year of the OpenDoTT project which will focus on policymaking. Nonetheless, the subject of public infrastructure to promote the reuse of materials emerged often from activities with participants. This document captures some of those discussions, and will likely help build the basis for future actions.
 
-## What constitutes a transformation lab?
+## 3. What constitutes a transformation lab?
 
 A Transformation Lab is a place where the residents (and visitors, of course) of a city or region can use tools and equipment to tranform goods and materials. It can be seen as a hybrid of makerspace, tool library, technical school and community centre. A blueprint for a Transformation lab should involve the following:
 
@@ -21,7 +21,7 @@ A Transformation Lab is a place where the residents (and visitors, of course) of
 
 See also this [short video description](prototype_transformation-labs.webm) made for the reuse.city co-design lab.
 
-### 1. Hardware
+### 3.1. Hardware
 
 What kind of hardware is needed for a Transformation Lab?
 
@@ -56,14 +56,14 @@ What kind of hardware is needed for a Transformation Lab?
  - CNC
  - E-I
 
-### 2. Space
+### 3.2. Space
 
  - Storage space for potentially reusable goods and materials
  - Availability of spare and replacement parts
  - Consumables
  - In the future: [E-I](../e-i)
 
-### 3. Governance
+### 3.3. Governance
 
 ## Partnering
 
@@ -73,7 +73,7 @@ What kind of hardware is needed for a Transformation Lab?
  - Community repair groups
  - Employment agencies
 
-### 4. Activities
+### 3.4. Activities
 
 ## References
 

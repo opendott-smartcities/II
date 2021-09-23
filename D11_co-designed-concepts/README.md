@@ -12,3 +12,5 @@ The meetings and other online activities conducted in different occasions as wel
 - [transformation labs](transformation-labs).
 - [universal registry of things](universal-registry).
 - [brainstorming of names](naming.md) for different elements of the project.
+
+The concepts in this folder will continue to evolve following upcoming phases of research. The contents of this folder is a snapshot made in September 2021.
