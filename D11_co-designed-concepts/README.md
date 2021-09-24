@@ -12,7 +12,7 @@ The meetings and other online activities conducted in different occasions includ
 
 - Updated Concepts: slide presentation ([PDF](updated-concepts.pdf)).
 - E-I: [concept documentation](e-i) and [video](e-i/E-I_concept.mkv).
-- Transformation Labs: [concept documentation](transformation-labs) and [video](transformation-labs/transformation-labs_concept.mkv).
+- Transformation Labs: [concept documentation](transformation-labs) and [video](transformation-labs/transformation-labs_concept.webm).
 - Universal Registry of Things: [documentation](universal-registry) and [video](universal-registry/universal-registry_concept.mkv).
 
 ## Additional documentation
