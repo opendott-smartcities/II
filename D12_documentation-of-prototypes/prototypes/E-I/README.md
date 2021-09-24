@@ -47,11 +47,6 @@ Original concept:  [Point and Reuse](https://is.efeefe.me/concepts/point-reuse),
 
 ## References
 
-### [Monk - Ai-based inspection system](https://monkvision.ai/#how-it-works)
-
-> Creating Trust whenever an item changes hands.
-
-Repository [here](https://github.com/Tessellate-Imaging/monk_v1).
 
 ### [Formation "Agent valoriste"](https://ecossolies.fr/Formation-Agent-valoriste)
 

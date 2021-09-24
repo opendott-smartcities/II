@@ -6,8 +6,6 @@ This folder contains documentation about the updated concept ideas, resulting fr
 
 The meetings and other online activities conducted in different occasions including the [reuse.city co-design lab](../D13_deployment-datasets/reuse-city) offered the opportunity to update and refine two of the [concept ideas](https://is.efeefe.me/concepts) developed on the first year of research: the [universal registry of things](https://is.efeefe.me/concepts/universal-registry-things) and the [transformation labs](https://is.efeefe.me/concepts/transformation-lab). A third concept called "evaluation interface" emerged from iterating discussions over the original concept called [point and reuse](https://is.efeefe.me/concepts/point-reuse).
 
-![Updating concepts](concepts.jpg)
-
 ## Contents of this folder
 
 - Updated Concepts: slide presentation ([PDF](updated-concepts.pdf)).
@@ -20,3 +18,5 @@ The meetings and other online activities conducted in different occasions includ
 - [brainstorming of names](naming.md) for different elements of the project.
 
 The concepts in this folder will continue to evolve following upcoming phases of research. The contents of this folder is a snapshot made in September 2021. Future developments will be documented in the [reuse city wiki](http://wiki.reuse.city).
+
+![Updating concepts](concepts.jpg)
