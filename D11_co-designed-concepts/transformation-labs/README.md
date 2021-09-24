@@ -6,13 +6,13 @@ Transformation Labs are public urban facilities that allow citizens to repair, u
 
 The [original concept for the Transformation Labs](https://web.archive.org/web/*/https://is.efeefe.me/concepts/transformation-lab) was created as an outcome of the first year of activities in the OpenDoTT project.
 
-## 2. Updated concepts
+## 2. Updated concept
 
 Initially the plans for the second year of research did not involve working further on the concept of the Transformation Lab, as it seemed more fit for the final year of the OpenDoTT project which will focus on policymaking. Nonetheless, the subject of public infrastructure to promote the reuse of materials emerged often from activities with participants. This document captures some of those discussions, and will likely help build the basis for future actions.
 
 ## 3. What constitutes a transformation lab?
 
-A Transformation Lab is a place where the residents (and visitors, of course) of a city or region can use tools and equipment to tranform goods and materials. It can be seen as a hybrid of makerspace, tool library, technical school and community centre. A blueprint for a Transformation lab should involve the following:
+A Transformation Lab is a place where the residents (and visitors, of course) of a city or region can use tools and equipment to transform goods and materials. It can be seen as a hybrid of makerspace, tool library, technical school and community centre. A blueprint for a Transformation lab should involve the following:
 
  - [Hardware](#hardware)
  - [Space](#space)

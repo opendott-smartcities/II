@@ -12,7 +12,7 @@ The [original concept for the Universal Registry of Things](https://web.archive.
 
 The Universal Registry of Things is a dynamic source for information about the value and reusability of goods and materials. It connects constantly to third-party datasources and uses AI to normalise them and make them available through open protocols.
 
-Data for the Universal Registry of Things is provided by manufacturers, associations, repair professionals, community groups, artists and other stakeholders. It comprises of objective specifications, descriptions and links to online resources as well as stories and subjective accounts on the reuse of things. Its deployment and use is promoted by initiatives related to zero waste, circular economy and the right to repair.
+Data for the Universal Registry of Things is provided by manufacturers, associations, repair professionals, community groups, artists and other stakeholders. It comprises of objective specifications, descriptions and links to online resources as well as stories and subjective accounts on the reuse of things. Its deployment and use is promoted by initiatives related to zero waste, circular economy and the right to repair. There are commons-based mechanisms to validate and solve disputes over data.
 
 ### 3.1. Process
 
