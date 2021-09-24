@@ -10,13 +10,13 @@ The meetings and other online activities conducted in different occasions includ
 
 ## Contents of this folder
 
-- Updated Concepts: slide presentation ([PDF](updated-concepts.pdf))
+- Updated Concepts: slide presentation ([PDF](updated-concepts.pdf)).
 - E-I: [concept documentation](e-i) and [video](e-i/E-I_concept.mkv).
-- Transformation Labs: [concept documentation](transformation-labs) and [video](transformation-labs/transformation-labs_concept.mkv)
+- Transformation Labs: [concept documentation](transformation-labs) and [video](transformation-labs/transformation-labs_concept.mkv).
 - Universal Registry of Things: [documentation](universal-registry) and [video](universal-registry/universal-registry_concept.mkv).
 
 ## Additional documentation
 
 - [brainstorming of names](naming.md) for different elements of the project.
 
-The concepts in this folder will continue to evolve following upcoming phases of research. The contents of this folder is a snapshot made in September 2021.
+The concepts in this folder will continue to evolve following upcoming phases of research. The contents of this folder is a snapshot made in September 2021. Future developments will be documented in the project [wiki](http://wiki.reuse.city).
