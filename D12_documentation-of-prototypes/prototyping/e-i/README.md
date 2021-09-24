@@ -6,7 +6,7 @@
 
 ## Description
 
-e.valudata is technology (hardware + software) created to increase the ability to reuse materials. Users can show objects to the machines. e.valudata identifies the objects and displays information about their repairability, spare partes, raw materials, second-hand market, possibilities of upcycling, adaptations and transformations, etc.
+E-I is technology (hardware + software) created to increase the ability to reuse materials. Users can show objects to the machines. e.valudata identifies the objects and displays information about their repairability, spare partes, raw materials, second-hand market, possibilities of upcycling, adaptations and transformations, etc.
 
 The goal with e.valudata is not to develop a functional product, but rather to discuss how can technologies help society reuse a larger proportion of materials that are currently discarded, and what would the implications of such technologies be in terms of use, privacy, health and safety, policy and economy.
 
