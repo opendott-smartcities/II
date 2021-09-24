@@ -3,4 +3,58 @@
 
 E-I is technology (hardware + software) created to increase the ability to reuse materials. Its users show objects to the machine. E-I identifies the objects and displays information about their repairability, spare parts, raw materials, second-hand market, possibilities of upcycling, adaptations and transformations, user stories, etc.
 
+# 1. Background
+
+E-I is a new iteration of an earlier concept called [Point and Reuse](https://web.archive.org/web/*/https://is.efeefe.me/concepts/point-reuse) (an app for mobile devices), extended and transformed into different form factors: a workbench version and a kiosk one.
+
+# 2. Updated concept
+
+During the second year of research, the requirement to work and prototype with open hardware informed the transformation of Point and Reuse into a physical machine to help assess the reuse potential of goods and objects. Intermediary versions called the machine e-valudata, associating it explicitly with the tentative name - valudata - for the universal registry of things. Eventually those names were dropped and after [some brainstorming](../naming.md), E-I was the chosen identity for this concept.
+
 The goal with E-I at this point is not to develop a functional product, but rather to discuss how can digital information technologies help society reuse a larger proportion of materials that are currently discarded, and what would the implications of such technologies be in terms of use, privacy, health and safety, policy and economy.
+
+# References
+
+## Monk - Ai-based inspection system
+
+> Creating Trust whenever an item changes hands.
+
+ - [Website](https://web.archive.org/web/*/https://monkvision.ai/#how-it-works)
+ - [Repository](https://web.archive.org/web/*/https://github.com/Tessellate-Imaging/monk_v1).
+
+## [Teachable Machine]
+
+> Train a computer to recognize your own images, sounds, & poses.
+
+ - [Website](https://web.archive.org/web/*/https://teachablemachine.withgoogle.com/)
+
+## Google lens
+
+> Search what you see
+
+ - [Website](https://web.archive.org/web/*/https://lens.google.com)
+
+## ODK - Object Detection Kit
+
+> Convert garbage into resources The garbage on our streets can have a lot of value when it is repurposed. ODK aims to take a step forward into circularity, making it easier to give garbage a new life.
+
+ - [Website](https://web.archive.org/web/*/https://odk.ai)
+
+## Pi Trash Classifier
+
+> Build a custom trash classifier using the Raspberry Pi and Lobe, a beginner-friendly machine learning program (without coding).
+
+ - [Website](https://web.archive.org/web/*/https://hackster.io/jenfoxbot)
+
+## Plant identification apps
+
+- [List of apps](https://web.archive.org/web/20210127032917/https://youhadmeatgardening.com/best-plant-identification-app/):
+  - PlantNet
+  - iNaturalist
+  - PlantSnap
+  - PictureThis
+  - FlowerChecker
+  - Garden Compass
+  - Agrobase
+  - Plantix
+  - What’s That Flower

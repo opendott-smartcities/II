@@ -19,4 +19,4 @@ The meetings and other online activities conducted in different occasions includ
 
 - [brainstorming of names](naming.md) for different elements of the project.
 
-The concepts in this folder will continue to evolve following upcoming phases of research. The contents of this folder is a snapshot made in September 2021. Future developments will be documented in the project [wiki](http://wiki.reuse.city).
+The concepts in this folder will continue to evolve following upcoming phases of research. The contents of this folder is a snapshot made in September 2021. Future developments will be documented in the [reuse city wiki](http://wiki.reuse.city).

@@ -1,20 +1,18 @@
 # Universal Registry of Things
 
-## 1. Description
-
 The Universal Registry of Things is a trusted source of information about how to reuse objects and materials. It offers information about repair, customisation and repurposing of virtually any good or material.
 
-## 2. Background
+## 1. Background
 
 The [original concept for the Universal Registry of Things](https://web.archive.org/web/*/https://is.efeefe.me/concepts/universal-registry-things) was created as an outcome of the first year of activities in the OpenDoTT project.
 
-## 3. Updated concept
+## 2. Updated concept
 
 The Universal Registry of Things is a dynamic source for information about the value and reusability of goods and materials. It connects constantly to third-party datasources and uses AI to normalise them and make them available through open protocols.
 
 Data for the Universal Registry of Things is provided by manufacturers, associations, repair professionals, community groups, artists and other stakeholders. It comprises of objective specifications, descriptions and links to online resources as well as stories and subjective accounts on the reuse of things. Its deployment and use is promoted by initiatives related to zero waste, circular economy and the right to repair. There are commons-based mechanisms to validate and solve disputes over data.
 
-### 3.1. Process
+### 2.1. Process
 
 During the second year, the concept evolved based on diverse activities:
 
@@ -24,7 +22,7 @@ During the second year, the concept evolved based on diverse activities:
 
 A prototype of the Universal Registry of Things was developed and called "thingwiki" (see documentation [here](../../D12_documentation-of-prototypes)).
 
-### 3.2. Mozfest 2021
+### 2.2. Mozfest 2021
 
 ![Mozfest overview](overview.png)
 
@@ -38,9 +36,9 @@ More about the session:
 
 Leading that session, as well as attending other activities of Mozfest, was a goood opportunity to rehearse and reflect on what I would develop later in the year, particularly the reuse city online co-design lab. The objective of having a relevant conversation around the idea of value was accomplished. The discussions did not go too deep into technical questions, however the topic of data governance emerged at some points. Finally, some participants signed up for future activities (P.S.: at least two of them took part on reuse.city one  month later).
 
-## 4. References
+## 3. References
 
-## 4.1. Instructables
+## 3.1. Instructables
 
 ### What it is
 
@@ -53,7 +51,7 @@ Leading that session, as well as attending other activities of Mozfest, was a go
 
 [https://www.instructables.com/](https://www.instructables.com/) / [web archive](https://web.archive.org/web/20210616034816/https://www.instructables.com/)
 
-## 4.2. ThinkWiki
+## 3.2. ThinkWiki
 
 ### What it is
 
@@ -63,7 +61,7 @@ Leading that session, as well as attending other activities of Mozfest, was a go
 
 [http://thinkwiki.org/](http://thinkwiki.org/) / [web archive](https://web.archive.org/web/20210515150512/http://www.thinkwiki.org/wiki/)
 
-## 4.3. Thingiverse
+## 3.3. Thingiverse
 
 ### What it is
 
@@ -73,7 +71,7 @@ Leading that session, as well as attending other activities of Mozfest, was a go
 
 [https://www.thingiverse.com/](https://www.thingiverse.com/) / [web archive](https://web.archive.org/web/20210617150215/https://www.thingiverse.com/)
 
-## 4.4. Open Repair Data Standard
+## 3.4. Open Repair Data Standard
 
 ### What it is
 
@@ -83,7 +81,7 @@ Leading that session, as well as attending other activities of Mozfest, was a go
 
 [https://openrepair.org/open-data/open-standard/](https://openrepair.org/open-data/open-standard/) / [web archive](https://web.archive.org/web/20210226093415/https://openrepair.org/open-data/open-standard/)
 
-## 4.5. Open3R
+## 3.5. Open3R
 
 ### What it is
 
@@ -93,7 +91,7 @@ Leading that session, as well as attending other activities of Mozfest, was a go
 
 [https://github.com/DsposalTom/Open3R](https://github.com/DsposalTom/Open3R)
 
-## 4.6. Persistent Things
+## 3.6. Persistent Things
 
 ### What it is
 
@@ -103,7 +101,7 @@ Leading that session, as well as attending other activities of Mozfest, was a go
 
 [https://www.climate-kic.org/opinion/persistent-things/](https://www.climate-kic.org/opinion/persistent-things/) / [web archive](https://web.archive.org/web/20210118061611/https://www.climate-kic.org/opinion/persistent-things/)
 
-## 4.7. WasteNet
+## 3.7. WasteNet
 
 ### What it is
 
@@ -114,7 +112,7 @@ These datasets are refined by weight and brand-level detection enabled through [
 
 [https://recycleye.com/wastenet-2/](https://recycleye.com/wastenet-2/) / [web archive](https://web.archive.org/web/20210615121437/https://recycleye.com/wastenet-2/)
 
-## 4.8. Data Europa: "Waste"
+## 3.8. Data Europa: "Waste"
 
 ### What it is
 
@@ -124,19 +122,19 @@ Query search for "waste" in the european data portal.
 
 [https://data.europa.eu/data/datasets?query=waste&locale=en&minScoring=0](https://data.europa.eu/data/datasets?query=waste&locale=en&minScoring=0)
 
-## 4.9. Selecting a data sharing structure: a value-based choice
+## 3.9. Selecting a data sharing structure: a value-based choice
 
 ### Online resources
 
 [https://datatrusts.uk/blogs/selectingdatastructures](https://datatrusts.uk/blogs/selectingdatastructures) / [web archive](https://web.archive.org/web/20201126191404/https://datatrusts.uk/blogs/selectingdatastructures)
 
-## 4.10. Manifesto in favour of technological sovereignty and digital rights for cities
+## 3.10. Manifesto in favour of technological sovereignty and digital rights for cities
 
 ### Online resources
 
 [https://www.barcelona.cat/digitalstandards/manifesto/0.2/](https://www.barcelona.cat/digitalstandards/manifesto/0.2/) / [web archive](https://web.archive.org/web/20201118173333/https://www.barcelona.cat/digitalstandards/manifesto/0.2/)
 
-## 4.11. Other references
+## 3.11. Other references
 
 ### "Our Waste Taxonomy"
 
