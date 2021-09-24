@@ -13,40 +13,44 @@ During the second year of research, the requirement to work and prototype with o
 
 The goal with E-I at this point is not to develop a functional product, but rather to discuss how can digital information technologies help society reuse a larger proportion of materials that are currently discarded, and what would the implications of such technologies be in terms of use, privacy, health and safety, policy and economy.
 
-# References
+# 3. Prototyping
 
-## Monk - Ai-based inspection system
+A prototype of E-I was developed during the second year. Documentation can be found [here](../D12_documentation-of-prototypes/E-I).
+
+# 4. References
+
+## 4.1. Monk - Ai-based inspection system
 
 > Creating Trust whenever an item changes hands.
 
  - [Website](https://web.archive.org/web/*/https://monkvision.ai/#how-it-works)
  - [Repository](https://web.archive.org/web/*/https://github.com/Tessellate-Imaging/monk_v1).
 
-## [Teachable Machine]
+## 4.2. [Teachable Machine]
 
 > Train a computer to recognize your own images, sounds, & poses.
 
  - [Website](https://web.archive.org/web/*/https://teachablemachine.withgoogle.com/)
 
-## Google lens
+## 4.3. Google lens
 
 > Search what you see
 
  - [Website](https://web.archive.org/web/*/https://lens.google.com)
 
-## ODK - Object Detection Kit
+## 4.4. ODK - Object Detection Kit
 
 > Convert garbage into resources The garbage on our streets can have a lot of value when it is repurposed. ODK aims to take a step forward into circularity, making it easier to give garbage a new life.
 
  - [Website](https://web.archive.org/web/*/https://odk.ai)
 
-## Pi Trash Classifier
+## 4.5. Pi Trash Classifier
 
 > Build a custom trash classifier using the Raspberry Pi and Lobe, a beginner-friendly machine learning program (without coding).
 
  - [Website](https://web.archive.org/web/*/https://hackster.io/jenfoxbot)
 
-## Plant identification apps
+## 4.6. Plant identification apps
 
 - [List of apps](https://web.archive.org/web/20210127032917/https://youhadmeatgardening.com/best-plant-identification-app/):
   - PlantNet
