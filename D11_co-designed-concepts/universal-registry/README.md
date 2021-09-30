@@ -104,9 +104,13 @@ These datasets are refined by weight and brand-level detection enabled through [
 
 ## 3.12. Dublin Core
 
-  - https://dublincore.org/specifications/dublin-core/
+  - https://dublincore.org/specifications/dublin-core
 
-## 3.13. Other references
+## 3.13. Fixfirst
+
+ - https://www.fixfirst.de/
+
+## 3.14. Other references
 
 ### "Our Waste Taxonomy"
 
