@@ -17,6 +17,8 @@ Original concept:  [Point and Reuse](https://is.efeefe.me/concepts/point-reuse),
 
 ## Features
 
+![E-I Workbench number 1](20210423_E-I_workbench.png)
+
 The expected behaviour of the workbench version of E-I is designed around the steps below:
 
  1. The user asks E-I about a specific object in one of the following ways:
@@ -37,15 +39,23 @@ The speculative prototype of E-I consists of the following:
  - Some predefined objects have a NFC tag. When these are recognised, the screen shows information about then.
  - When the object is not identified, the user can press a button and input information about it.
 
-## Sketch #1
+## Hardware
 
-![E-I Workbench number 1](20210423_E-I_workbench.png)
+The E-I prototype uses an ultrasonic sensor, NFC reader, arduino board, pi camera, raspberry Pi and a touch screen.
 
-**Expected behaviour:**
+![Hardware](hardware-schema.png)
 
-![Unicorn](20210423_unicorn.jpg)
+## Software
+
+The NFC reader is attached to the arduino board and sends its readings via USB to the Raspberry Pi running the Debian based Raspberry Pi OS.
+
+![Software](software-schema.png)
+
+The Raspberry Pi board has node-red running locally, to which the camera and the ultrasonic sensor are connected. It displays information using the node-red dashboard module.
 
 ## This prototype
+
+![Unicorn](20210423_unicorn.jpg)
 
 The goal of this prototype is not to develop a functional product, but experiment with speculative use cases. The idea is to devise technologies that might promote the reuse of a larger proportion of goods and materials.
 

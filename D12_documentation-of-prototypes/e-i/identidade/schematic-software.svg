@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,6 +51,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1, 4"
+       id="rect2028"
+       width="325.73682"
+       height="172.74084"
+       x="-24.924278"
+       y="32.255116" />
     <ellipse
        style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1,4;stroke-dashoffset:0;stroke-opacity:1"
        id="ellipse2448"
