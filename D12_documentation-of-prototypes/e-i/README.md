@@ -1,6 +1,6 @@
 # E-I - evaluation interface
 
-![](header.jpg)
+![Unicorn](unicorn.jpg)
 
 ## Concept
 
@@ -17,7 +17,7 @@ Original concept:  [Point and Reuse](https://is.efeefe.me/concepts/point-reuse),
 
 ## Features
 
-![E-I Workbench number 1](20210423_E-I_workbench.png)
+![E-I Workbench](workbench.png)
 
 The expected behaviour of the workbench version of E-I is designed around the steps below:
 
@@ -53,9 +53,9 @@ The NFC reader is attached to the arduino board and sends its readings via USB t
 
 The Raspberry Pi board has node-red running locally, to which the camera and the ultrasonic sensor are connected. It displays information using the node-red dashboard module.
 
-## This prototype
+![Camera](camera.jpg)
 
-![Unicorn](20210423_unicorn.jpg)
+## This prototype
 
 The goal of this prototype is not to develop a functional product, but experiment with speculative use cases. The idea is to devise technologies that might promote the reuse of a larger proportion of goods and materials.
 
