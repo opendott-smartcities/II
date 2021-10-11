@@ -1,5 +1,9 @@
 /**************************************************************************/
 /*!
+    Based on [this gist](https://gist.github.com/vongomben/ffc4912798c6183d023a7deca6affbef)
+
+    ---
+
     This example will wait for any ISO14443A card or tag, and
     depending on the size of the UID will attempt to read from it.
 
@@ -76,7 +80,7 @@ void loop(void) {
 
   if (success) {
     // Display some basic information about the card
-    Serial.println("Object identified");
+    Serial.println("Thing identified.");
 //    Serial.print("  UID Length: "); Serial.print(uidLength, DEC); Serial.println(" bytes");
 //    Serial.print("  UID Value: ");
 //    nfc.PrintHex(uid, uidLength);
@@ -96,23 +100,25 @@ void loop(void) {
       //Serial.print("code = ");
       //Serial.println(code);
 
+// Replace the "code" strings below with the reading of your NFC tags.
+
       if (code == "449187122243103129") {
-        
-        Serial.println("Object 1");
-      
-      } 
-      
+
+        Serial.println("Thing number 1.");
+
+      }
+
       else if (code == "433187122243103129") {
 
-        Serial.println("Object 2");
+        Serial.println("Thing number 2.");
 
       }
 
       else if (code == "457187122243103129") {
 
-        Serial.println("Object 3");
+        Serial.println("Thing number 3.");
 
-      }      
+      }
 
       // We probably have a Mifare Ultralight card ...
       // Serial.println("Seems to be a Mifare Ultralight tag (7 byte UID)");
@@ -132,7 +138,7 @@ void loop(void) {
       }
       else
       {
-        Serial.println("Ooops ... object not known.");
+        Serial.println("Unknown thing.");
       }
     }
   }
