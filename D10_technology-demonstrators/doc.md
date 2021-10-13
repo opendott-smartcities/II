@@ -33,7 +33,6 @@ This document shows how to replicate the experiments of this folder.
  1. Install the [Arduino IDE](https://web.archive.org/web/20211006233325/https://www.arduino.cc/en/Guide) on your computer.
  1. Open the Arduino IDE, click on Tools > Board Manager > Manage Boards and search "MKR". Install the package _Arduino SAMD Boards_.
  1. [Download](https://github.com/vongomben/fluid-networks/raw/master/Libraries/NFC.zip) and [install](https://web.archive.org/web/20210118105822/https://wiki.seeedstudio.com/Grove_NFC/) the NFC library for Arduino.
- 1.
 
 #### Install code
 
