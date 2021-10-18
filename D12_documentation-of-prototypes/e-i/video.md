@@ -1,6 +1,6 @@
 # Video Demo
 
-Partly because of the restrictions due to the pandemic, I am working with a video producer in this phase of research. A video seems to be a good way to summarise my research and translate some of its ideas to a wider audience.
+Partly because of the restrictions due to the pandemic, I tried working with a video producer in this phase of research. A video seemed to be a good way to summarise my research and translate some of its ideas to a wider audience. Unfortunately, the timing did not work. But my notes are below:
 
 ## Update on 14.04.2021
 

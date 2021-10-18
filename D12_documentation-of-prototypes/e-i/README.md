@@ -20,6 +20,8 @@ The speculative prototype of E-I consists of the following:
  - Some predefined objects have a NFC tag. When these are recognised, the screen shows information about them.
  - When the object is not identified, the user can press a button and input information about it.
 
+![Video - assembling](assembling.mp4)
+
 ## Hardware
 
 The E-I prototype uses an ultrasonic sensor, NFC reader, arduino board, pi camera, raspberry Pi and a touch screen.
@@ -43,5 +45,7 @@ All the software needed to put the prototype to work can be found in [this folde
 The goal of this prototype is not to develop a functional product, but experiment with speculative use cases. The idea is to devise technologies that might promote the reuse of a larger proportion of goods and materials.
 
 Other points of discussion are the potential implications of such technologies in terms of use, privacy, health and safety, policy and economy.
+
+I kept some notes while [brainstorming](brainstorming.md) for this prototype. I had the intention of making a speculative [video](video.md), but unfortunately the timing did not work.
 
 ![](images/valooe.png)
