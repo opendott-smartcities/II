@@ -1,10 +1,25 @@
 # Naming
 
-Notes towards looking for a name to call this year's research activities (centred on prototypes of a collaborative database and a machine/app to assess the potential value of objects). "Value" is a central aspect. Plenty of awkward ideas below. Some of them are already crowded, in regards to domain names.
+## Updating on 14.04.21
 
-**P.S.:** I don't want it too sound as thought I'm only interested in the numeric value of stuff (how much is it worth), but also to explore what value means to different people in different contexts / situations. Neither do I want to stress too much on the "re" prefix (as it brings a bias of seeing objects as less valuable than they were originally - long discussion in the MetaReciclagem network a decade ago).
+I forgot even to mention on this document, but some weeks ago I was still under brainstorm mode and checking available domain names. I eventually found that _reuse.city_ was available and decided to acquire it. As soon as I found the name, the shape of the whole project started to unfold before me (oops, but that part of the story should be told elsewhere).
+
+## Updated 03.03.21
+
+Playing now with the idea of calling the hardware part "Evaluation Interface", or short "EI". "Ei" in Portuguese is a (very) informal way to call someone's attention, akin to "hey!". It could be an interesting way to trigger a voice-operated machine. Thinking an Alexa for repairs. Some languages will also pronounce it similar to the English "I" or "eye". "Eye, is this thing repairable?". I am not 100% sure it will work in German, though, as "Ei"
+ means "egg". Unless we decide to go for an oval shape, which could add some fun to it as well.
+
+ **P.S.:** How about "E-I"?
+
+## Updated 28.02.2021
+
+For the time being, I'm settling with "valudata" for the universal database, and or "e.valudata" for the hardware/software to access and query it. Registered a domain name yesterday, valudata.org.
 
 ## 24.02.2021
+
+Looking for a name to call this year's research activities (prototypes of a collaborative database and a machine/app to assess the potential value of objects). "Value" is a central aspect. Plenty of awkward ideas below. Some of them are already crowded, in regards to domain names.
+
+**P.S.:** I don't want it too sound as thought I'm only interested in the numeric value of stuff (how much is it worth), but also to explore what value means to different people in different contexts / situations. Neither do I want to stress too much on the "re" prefix (as it brings a bias of seeing objects as less valuable than they were originally - long discussion in the MetaReciclagem network a decade ago).
 
 - Valooe (the "loo" in the middle turns people off)
 - Reuse (crowded space)
@@ -68,22 +83,3 @@ Notes towards looking for a name to call this year's research activities (centre
 - OpenObjectDataBase - OODB (sounds a little too opensourcey - OSF - for my taste, and excludes the machine / app)
 - Valuething
 - ValeCoisa ("coisa" being "thing" in pt-br)
-
-## Updated 28.02.2021
-
-For the time being, I'm settling with "valudata" for the universal database, and or "e.valudata" for the hardware/software to access and query it. Registered a domain name yesterday, valudata.org.
-
-## Updated 03.03.21
-
-Playing now with the idea of calling the hardware part "Evaluation Interface", or short "EI". "Ei" in Portuguese is a (very) informal way to call someone's attention, akin to "hey!". It could be an interesting way to trigger a voice-operated machine. Thinking an Alexa for repairs. Some languages will also pronounce it similar to the English "I" or "eye". "Eye, is this thing repairable?". I am not 100% sure it will work in German, though, as "Ei"
- means "egg". Unless we decide to go for an oval shape, which could add some fun to it as well.
-
- **P.S.:** How about "E-I"?
-
-## Updating on 14.04.21
-
-I forgot even to mention on this document, but some weeks ago I was still under brainstorm mode and checking available domain names. I eventually found that _reuse.city_ was available and decided to acquire it. As soon as I found the name, the shape of the whole project started to unfold before me (oops, but that part of the story should be told elsewhere).
-
-## P.S.:
-
-At some point I decided to use "thingwiki" for the prototype of the universal registry of things, and registered a domain name for that too.

@@ -15,7 +15,18 @@ The goal with E-I at this point is not to develop a functional product, but rath
 
 # 3. Prototyping
 
-A prototype of E-I was developed during the second year. Documentation can be found [here](../D12_documentation-of-prototypes/E-I).
+The expected behaviour of the workbench version of E-I is designed around the steps below:
+
+ 1. The user presents a specific object to E-I in one of the following ways:
+placing the object on E-I
+  - typing a search query into a keyboard in its touchscreen, or
+  - asking E-I about the object.
+ 2. E-I compares images and other information collected from the product/object (weight, colors, barcode, QR code) against an open database of things
+ 3. When information about the object is found, E-I retrieves it and delivers to the user via screen or voice.
+ 4. When information about the object is not found, E-I allows the user to input it via keyboard or voice.
+
+
+A prototype of E-I was developed during the second year. Documentation can be found [here](../D12_documentation-of-prototypes/e-i).
 
 # 4. References
 
