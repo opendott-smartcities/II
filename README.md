@@ -8,7 +8,7 @@ Other activities that provided data, insights and density to my research this ye
 
 Contents of this repository:
 
-- [D10 - Technology demonstrators](D10_technology_demonstrators): experiments and code developed during the training module on open hardware and prototyping.
+- [D10 - Technology demonstrators](D10_technology-demonstrators): experiments and code developed during the training module on open hardware and prototyping.
 - [D11 - Co-designed concepts](D11_co-designed-concepts): updated versions of concepts to be prototyped.
 - [D12 - Documentation of prototypes](D12_documentation-of-prototypes): experiments to make the concepts concrete and test their relevance and validity.
 - [D13 - Deployment datasets](D13_deployment-datasets): data generated whilst developing and implementing the prototypes.

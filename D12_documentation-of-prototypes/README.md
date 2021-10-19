@@ -8,3 +8,4 @@ The prototypes were conceived as trial implementations of two [concept ideas](..
 
 - [E-I](e-i), or "Evaluation Interface".
 - [ThingWiki](thingwiki), an implementation of the Universal Registry of Things.
+- Slide deck with a [summary](prototypes.pdf) (PDF).
