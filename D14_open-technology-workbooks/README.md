@@ -53,4 +53,4 @@ ID21 was a study on community-based digital inclusion in Brazil developed by Ins
 
 I was also invited to present my research to lab404, a centre of digital media, networks and space based in the University of Bahia, Brazil.
 
-Finallly, I ran a seminar to 3rd year students of Design for Industry at Northumbria. My topic was "Open Design Contexts", which brought the opportunity to put in perspective my current explorations as a PhD researcher as well as my past experience in open and commons-based projects.
+Finally, I ran a seminar to 3rd year students of Design for Industry at Northumbria. My topic was "Open Design Contexts", which brought the opportunity to put in perspective my current explorations as a PhD researcher as well as my past experience in open and commons-based projects.
