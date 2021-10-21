@@ -3,6 +3,8 @@
 > ESRs will regularly produce collections of written material that document work and present an initial research narrative, which will later be refined and integrated into research papers and thesis chapters. These will be pitched towards a general audience including public, industry and policy.
 > The Open Technology  Workbooks will document ESRs progress across the second year of their PhD, including their design iterations, field trials and initial findings."
 
+This document provides an overview of activities developed during my second year of research (2020/2021) at the OpenDoTT project. My research topic is "waste prevention and smart cities".
+
 ## A spiral of opennness
 
 The Internet Health training module, based on Mozilla's open leadership program, was a powerful start into the second year of research. Technology-inspired open design was not at all a new subject to me. But revisiting it at this point in time gave me the opportunity to reflect on my previous experience working in pretty diverse contexts. That new perspective would prove relevant when it came to designing new research activities for this phase.
@@ -29,20 +31,6 @@ The co-design process was designed to help shape the work on prototypes based on
 
 Participants from three continents joined the calls and online interactions. As well as providing in-depth feedback and inspiration for the research, the lab was itself an exercise at community making that may be important in future stages of the project.
 
-## conferences and events
-
-The restrictions to mobility imposed by the COVID-19 pandemic were a double-edged sword. For one, I could not travel to participate on conferences and festivals in person. On the other hand, I was able to attend events in different parts of the world, sometimes simultaneously.
-
-Even though it can be said that the quality of human connections is more superficial in such a context, it may allow for interesting networking opportunities.
-
-## secondment
-
-Even if I had to adapt my expectations for the research period in Berlin in the absence of the Mozilla office, being in Berlin was a good opportunity to engage with initiatives both at local as well as EU level. I have engaged with ongoing network activities, organisations and public events in themes relevant to the research such as zero waste, circular economy, smart cities, platform cooperativism and open technologies.
-
-On another front, the OpenDoTT Studio sessions provided a good way to re-engage with the other research fellows and compensate for the distance. I have co-hosted the first such meeting with a colleague and was glad with the results.
-
-My engagement with common practices of re-circulation of goods in Berlin gave rise to an auto-ethnographic strand of research that will likely be important in developing my thesis.
-
 ## cooperation, outreach and teaching
 
 During the course of the second year, I got occasionally involved with activities beyond the reach of my individual research.
@@ -54,3 +42,17 @@ ID21 was a study on community-based digital inclusion in Brazil developed by Ins
 I was also invited to present my research to lab404, a centre of digital media, networks and space based in the University of Bahia, Brazil.
 
 Finally, I ran a seminar to 3rd year students of Design for Industry at Northumbria. My topic was "Open Design Contexts", which brought the opportunity to put in perspective my current explorations as a PhD researcher as well as my past experience in open and commons-based projects.
+
+## secondment
+
+Even if I had to adapt my expectations for the research period in Berlin in the absence of the Mozilla office, being in Berlin was a good opportunity to engage with initiatives both at local as well as EU level. I have engaged with ongoing network activities, organisations and public events in themes relevant to the research such as zero waste, circular economy, smart cities, platform cooperativism and open technologies.
+
+On another front, the OpenDoTT Studio sessions provided a good way to re-engage with the other research fellows and compensate for the distance. I have co-hosted the first such meeting with a colleague and was glad with the results.
+
+My engagement with common practices of re-circulation of goods in Berlin gave rise to an auto-ethnographic strand of research that will likely be important in developing my thesis.
+
+## conferences and events
+
+The restrictions to mobility imposed by the COVID-19 pandemic were a double-edged sword. For one, I could not travel to participate on conferences and festivals in person. On the other hand, I was able to attend events in different parts of the world, sometimes simultaneously.
+
+Even though it can be said that the quality of human connections is more superficial in such a context, it may allow for interesting networking opportunities.
