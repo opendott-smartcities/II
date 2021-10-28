@@ -17,7 +17,7 @@ This folder consists of the following:
 
  - [doc.md](doc.md): Technical documentation of the modules.
  - [E-I_NFC](E-I_NFC): Arduino code to recognise NFC tags using a GROVE NFC module, and send their identifiers via USB to the Raspberry Pi.
- - [E-I_node](E-I_NFC): Node-RED flows in JSON format that will:
+ - [E-I_node](E-I_node): Node-RED flows in JSON format that will:
     - Display on the machine the image that is captured by the camera;
     - Receive the identifiers from the NFC sensor when the object's NFC tags are recognised;
     - Display different information on a web page each time a different NFC tag is recognised.
