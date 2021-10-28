@@ -15,6 +15,7 @@ The [prototype](../D12_documentation-of-prototypes) the demonstrators on this fo
 
 This folder consists of the following:
 
+ - [E-I_overview.pdf](E-I_overview.pdf) - description and specifications of the exploratory version of E-I.
  - [doc.md](doc.md): Technical documentation of the modules.
  - [E-I_NFC](E-I_NFC): Arduino code to recognise NFC tags using a GROVE NFC module, and send their identifiers via USB to the Raspberry Pi.
  - [E-I_node](E-I_node): Node-RED flows in JSON format that will:
