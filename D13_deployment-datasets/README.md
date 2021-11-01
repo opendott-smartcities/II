@@ -7,9 +7,11 @@ The PhD research focuses on waste prevention through collective practices of reu
 The dataset on this folder comprises of data collected through studies and activities, in the shape of interview transcripts (in formats PDF and ODF), contents of emails sent to participants, as well as particular images of activities, notes and analyses. It has the following subfolders:
 
  - [reuse.city](reuse-city): outputs and processual documentation of the online co-design lab conducted with a group of participants involved with initiatives of repair, upcycling and re-circulation of goods and materials.
- - [open_research_log](open_research_log): meta-documentation about this year's activities.
- - [generous_city](generous_city): ongoing collection of images to be used in a future auto-ethnographic account on the reuse of materials in Berlin.
- - [link-collection](link-collection): current version of an ongoing collection of bookmarks related to the research topic.
+ - [open_research_log](open_research_log): research journal kept as meta-documentation about this year's activities.
+ - [generous_city](generous_city): ongoing collection of images to be used in a future ethnographic account on the reuse of materials in Berlin.
+ - [link-collection](link-collection): current version of an ongoing collection of bookmarks related to the research themes.
+
+---
 
 The researcher is available for contact by email: f.fonseca@northumbria.ac.uk
 
