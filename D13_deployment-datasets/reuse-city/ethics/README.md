@@ -1,6 +1,6 @@
 # Ethics
 
-As these workshops will help compose a study within an ongoing [PhD research](https://is.efeefe.me/opendott), they need to adhere to Northumbria University's [ethics guidance](https://www.northumbria.ac.uk/research/ethics-and-governance/). The study was approved by the University Ethics system on 16.02.2021 under reference number 28431. The application can be found below.
+The reuse.city co-design lab needs to adhere to Northumbria University's [ethics guidance](https://www.northumbria.ac.uk/research/ethics-and-governance/). The study was approved by the University Ethics system on 16.02.2021 under reference number 28431. The application can be found below.
 
 ## Title
 
