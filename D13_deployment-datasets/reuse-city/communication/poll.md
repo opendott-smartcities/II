@@ -1,6 +1,6 @@
 # Poll - communication tools
 
-[Form](https://forms.gle/EyXP9MMoDTdN3DpLA) sent to participants and subscribers during the first week. Took responses until April 12th. The results were:
+Form sent to participants and subscribers during the first week. Took responses until April 12th. The results were:
 
 - I prefer to communicate with the group in a discussion list via e-mail 5 votes
 - I prefer to communicate with the group via a Telegram group 4 votes
