@@ -1,5 +1,6 @@
 # Link collection
 
-This folder contains a collection of links related to the themes of my research, in the form of a XML file. It was generated with the software Shaarli and can be imported to any XML-compatible link collection software.
+Since the start of the project I keep an ongoing collection of links relevant for my research themes. This folder contains a snapshot of this collection at the end of the second year, in the form of a HTML file and a PDF export.
 
- - [links-opendott.xml](links-opendott.xml)
+  - [links-opendott.html](links-opendott.html)
+  - [links-opendott.pdf](links-opendott.pdf)
