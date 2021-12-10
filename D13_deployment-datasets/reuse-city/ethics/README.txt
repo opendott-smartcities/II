@@ -1,6 +1,6 @@
 # Ethics
 
-The reuse.city co-design lab needs to adhere to Northumbria University's [ethics guidance](https://www.northumbria.ac.uk/research/ethics-and-governance/). The study was approved by the University Ethics system on 16.02.2021 under reference number 28431. The application can be found below.
+The reuse.city co-design lab needs to adhere to Northumbria University's ethics guidance (https://www.northumbria.ac.uk/research/ethics-and-governance/). The study was approved by the University Ethics system on 16.02.2021 under reference number 28431. The application can be found below.
 
 ## Title
 
@@ -10,7 +10,7 @@ Technology for Reuse
 
 The project is part of an ongoing PhD research focused on waste prevention in smart cities. It builds on two studies carried out previously which mapped participants’ behaviours towards broken objects, as well as how unwanted materials circulate in society before they are finally discarded. As a result of such activities, the researcher is currently exploring technologies to help the reuse of materials through repair, transformations and upcycling.
 
-The main goal of the study is to understand to what extent the ability to assess the potential value of materials relies on a set of skills which could be augmented and replicated with the use of networked digital technologies. One of its sources of inspiration are the “agents valoristes”, name of a professional role in some regions of France. A [recent advertisement](https://ecossolies.fr/Formation-Agent-valoriste) of formal training for these professionals offered by an organisation in the city of Nantes describes the functions of the valoriste as such:
+The main goal of the study is to understand to what extent the ability to assess the potential value of materials relies on a set of skills which could be augmented and replicated with the use of networked digital technologies. One of its sources of inspiration are the “agents valoristes”, name of a professional role in some regions of France. A recent advertisement (https://ecossolies.fr/Formation-Agent-valoriste) of formal training for these professionals offered by an organisation in the city of Nantes describes the functions of the valoriste as such:
 
 - To collect, sort and value objects and materials.
 - To inform, guide and raise awareness about reuse.

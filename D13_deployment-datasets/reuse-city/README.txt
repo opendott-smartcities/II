@@ -6,8 +6,8 @@ The co-design process was created to help shape the work on prototypes based on 
 
 During a period of about five weeks, a series of activities were performed including synchronous as well as asynchronous conversations via internet; the use of collaborative boards to present ideas and gather contributions; online surveys; and conversations both on social media and in private online environments. The data you can find in this folder are the outputs of such activities, as follows:
 
- - an [overview](overview.txt) of the research study.
- - [activities](activities.txt) performed.
- - [ethics](ethics) approval.
- - [communication](communication) with participants.
- - [meetings](meetings) - documentation of the workshops including [collaborative boards](meetings/miro-boards), [meeting notes](meetings/notes) and [audio transcriptions](meetings/transcriptions).
+ - overview.txt - an overview of the research study.
+ - activities.txt activities performed in the lab.
+ - ethics - Northumbria University's ethics approval of the study.
+ - communication - information exchanged with participants via email, video and an online poll.
+ - meetings - documentation of the workshops including collaborative boards, meeting notes and the transcription of audio recordings.
