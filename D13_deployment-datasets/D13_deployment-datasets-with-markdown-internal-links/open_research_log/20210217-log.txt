@@ -1,0 +1,3 @@
+# Log - 17.02.2021
+
+Creating a folderworkshops (and README file) to document the workshops that will be the core of my interaction with participants this year. I have already created two subfolders there: one to share documents related to the ethics approval at Northumbria, and the other with the process of building my session at mozfest. I would like to create a third folder for the workshops proper, but figure I must think of how to name them. It's better to have a series of workshops structured as a coherent whole. I want to make them as open as the University ethics processes allow. There is a lot of subtle weaving there, aware of the potential [spiral shape of open science](https://github.com/opendott-smartcities/working-open/tree/main/spiral).

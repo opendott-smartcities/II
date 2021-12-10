@@ -1,0 +1,7 @@
+# Log - 16.02.2021
+
+As anticipated, this week I reactivated my research blog. I shared an edited version of an [email](https://is.efeefe.me/opendott/prototyping) I sent to my four supervisors, and this morning have shared the most recent version of my [upgrade report](https://is.efeefe.me/opendott/upgrade), approved as proof of annual progression at Northumbria University.
+
+I'm not sure how the repo log here should differ from my research blog. For now I am considering this one to be a little less formal and perhaps becoming a meta-narrative about the process of opening my research, while the research blog would have info geared to the public. But I may change that disposition as things evolve.
+
+**PS.:** I have updated the README files for the universal registry of things and Valudata Hardware.
