@@ -1,0 +1,9 @@
+# Log - 11.02.2021
+
+First challenge: how to call this repository? I struggled a bit with it. Prototyping? Valooe? Year 2? 2021 (or is it still 2020)? I ended up calling it "II", only to reference that I'll use it to document my second year of research. I can always change my mind later and rename or fork it.
+
+--
+
+I have added some subfolders and contents. Meanwhile, I was also cleaning up and storing a lot of URLs collected in perhaps more than one year, which caused a flood of tweets (I use IFTTT to repost my [infinite bookmarks list](https://links.efeefe.me) to my [twitter account](https://twitter.com/efeefe)).
+
+This repo is still a mess, but I finally feel as though my research will start to move. I'll be posting notes to my [research blog](https://is.efeefe.me/opendott) and meta-notes [here in this repo](../). I intend to open up the discussion about my research plans, while bridging with the necessary precautions regarding ethics, privacy and data security the University is naturally concerned with.

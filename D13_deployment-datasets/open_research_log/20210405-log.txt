@@ -1,0 +1,15 @@
+# Log - 05.04.2021
+
+## 1. Spreading the word, inviting people, recruiting participants.
+
+ - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6784765362564030464/)
+ - [Twitter](https://twitter.com/efeefe/status/1379000173624492034) + mentions
+ - Emails to mailing lists (bricolabs, maintainers)
+ - Messages on groups (ask community repair, tropixel)
+ - Emails to former participants of my research activities
+ - Email to groups and organisations working on circular economy, zero waste and similar issues
+
+## 2.
+
+ - Planning next steps
+ - Created a new organisation on GitHub, reuse.city. I forked the site repo there, and reconfigured the gitsync. Hopefully it's still working.
