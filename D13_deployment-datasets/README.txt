@@ -24,7 +24,7 @@ The dataset has the following subfolders:
  - "generous_city": ongoing collection of images to be used in a future ethnographic account on the reuse of materials in Berlin.
  - "link-collection": current version of an ongoing collection of bookmarks related to the research themes.
 
-Note: all but one of the participants who signed up to join the "tech for reuse" research study opted in the consent form to have their names identified and contributions attributed to them in the audio transcriptions. The remaining participant had their name removed from transcription files.
+Note: all but one of the participants who signed up to join the "tech for reuse" research study opted in the consent form to have their identities potentially identifiable, and contributions attributed to them in the audio transcriptions. The remaining participant had their name removed from transcription files.
 
 ---
 
